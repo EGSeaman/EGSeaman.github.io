@@ -1,52 +1,41 @@
-site_name: My Docs
 site_name: Eric Seaman
-nav:
-  - ABOUT: index.md
-  - PORTFOLIO-1: Portfolio-1.md
+nav: 
+  - Home: index.md
+  - Portfolio: Portfolio.md
 theme:
-  name: material
-  icon: 
-    logo: fontawesome/solid/dna
-  features: 
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-    - navigation.footer
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-  language: en
-  palette:
-    - scheme: default
-      toggle: 
-        icon: material/toggle-switch-off-outline
-        name: Switch to Dark Mode
-      primary: blue
-      accent: deep orange
-    - scheme: slate
-      toggle: 
-        icon: material/toggle-switch
-        name: Switch to Light Mode
-      primary: blue
-      accent: deep orange
+  name: material
+  features: 
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle: 
+        icon: material/toggle-switch-off-outline
+        name: Switch to Dark Mode
+      primary: green
+      accent: deep orange
+    - scheme: slate
+      toggle: 
+        icon: material/toggle-switch
+        name: Switch to Light Mode
+      primary: green
+      accent: deep orange
 repo_url: https://github.com/EGSeaman/EGSeaman.github.io
 markdown_extensions:
-  - attr_list
-  - md_in_html
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/EGSeaman
-      name: EGSeaman on GitHub
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.casdfewom/in/ryanpseaman
-      name: sesef on linkedin
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
