@@ -2,6 +2,7 @@ site_name: My Docs
 site_name: Eric Seaman
 nav:
   - ABOUT: index.md
+  - PORTFOLIO-1: Portfolio-1.md
 theme:
   name: material
   icon: 
