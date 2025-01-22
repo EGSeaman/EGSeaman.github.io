@@ -2,7 +2,6 @@ site_name: My Docs
 site_name: Eric Seaman
 nav:
   - ABOUT: index.md
-  - PUBLICATIONS: publications.md
 theme:
   name: material
   icon: 
