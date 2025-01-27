@@ -4,6 +4,8 @@ nav:
   - Portfolio: Portfolio.md
 theme:
   name: material
+  icon: 
+    logo: simple/antdesign
   features: 
     - navigation.tabs
     - navigation.sections
@@ -17,18 +19,9 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: default
-      toggle: 
-        icon: material/toggle-switch-off-outline
-        name: Switch to Dark Mode
-      primary: green
-      accent: deep orange
     - scheme: slate
-      toggle: 
-        icon: material/toggle-switch
-        name: Switch to Light Mode
-      primary: green
-      accent: deep orange
+      primary: blue
+      accent: sea blue
 repo_url: https://github.com/EGSeaman/EGSeaman.github.io
 markdown_extensions:
   - attr_list
