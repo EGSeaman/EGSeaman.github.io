@@ -13,7 +13,7 @@ Through my liberal arts education at Colby, I have developed a strong creative a
 
 # **`2D Art Projects`**
 
-![ART](Images/ART.JPG){width=200}
+![ART](Images/ART.png){width=200}
 ![ART](Images/ART2.JPG){width=200}
 ![ART](Images/ART3.JPG){width=200}
 ![ART](Images/ART4.JPG){width=200}
