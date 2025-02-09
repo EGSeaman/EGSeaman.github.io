@@ -2,6 +2,7 @@ site_name: Eric Seaman
 nav: 
   - Home: index.md
   - Portfolio: Portfolio.md
+  - Other: OtherCreativeProjects.md
 theme:
   name: material
   icon: 
