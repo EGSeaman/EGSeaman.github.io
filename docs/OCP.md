@@ -1,5 +1,5 @@
 
-# **Other Creative Projects through Colby**
+# **Traditional Media Portfolio**
 
 
 ## **Scupture Project**
