@@ -1,8 +1,8 @@
 site_name: Eric Seaman
 nav: 
   - Home: index.md
-  - Portfolios: Portfolio.md
-  - Other Creative Projects: OCP.md
+  - Digital Media: Portfolio.md
+  - Traditional Media: OCP.md
 theme:
   name: material
   icon: 
