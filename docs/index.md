@@ -5,7 +5,7 @@ hide:
 
 # Eric Seaman
 
-![Hello](images/me.JPG){align=left width=200 loading=lazy}
+![ME](Images/me.JPG){align=left width=200 loading=lazy}
 
 ## About Me
 
