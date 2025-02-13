@@ -1,9 +1,14 @@
 
-# **`Other Creative Projects through Colby`**
+# **Other Creative Projects through Colby**
 
-Through my liberal arts education at Colby, I have developed a strong creative ability, showcased through various projects. Courses like Sculpture and 2D Art have deepened my understanding of the creative process, allowing me to refine my artistic skills and explore intricate design techniques.
 
 ## **Scupture Project**
+
+In my Sculpture class, I learned different joinery techniques and how they can be used in both design and art. 
+
+### **Gravity-Defying Minimalist Table**
+
+For my project, I wanted to make something both useful and creative that could attach to a structure, whether natural or man-made. I designed a sleek, minimalist table that seems to defy gravity. It rests on the lip of a window, turning an outdoor space into a functional surface. Even though it’s simple, I used joinery techniques like lapped and dowel joints. The dowel joint makes the leg detachable, making the table more convenient and versatile.
 
 ![Table](Images/table.JPG){width=200}
 ![Table](Images/table2.JPG){width=200}
@@ -12,6 +17,10 @@ Through my liberal arts education at Colby, I have developed a strong creative a
 
 
 ## **2D Art Projects**
+
+### **Black and White**
+
+This is a sampling of pieces I created for a class in 2D art.
 
 ![ART](Images/ART.JPG){width=200}
 ![ART](Images/ART2.JPG){width=200}

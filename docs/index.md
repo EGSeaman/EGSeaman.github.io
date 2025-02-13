@@ -3,11 +3,11 @@ hide:
   - footer
 ---
 
-# Eric Seaman
+# **Eric Seaman**
 
 ![ME](Images/me.JPG){align=left width=200 loading=lazy}
 
-## About Me
+## **About Me**
 
 I am a student at Colby College, majoring in Studio Arts with a focus in Digital. I am passionate about buiding a career in UX/UI Design in the technology industry, and ma excited by the opportunities and challenges emergin with the advent of AI.
 
