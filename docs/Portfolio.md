@@ -52,6 +52,15 @@ Ultimately, my work aims to highlight the emotional and aesthetic resonance of a
 
 <br clear="left"/>
 
+## **Website Design**
+
+![time](Images/website%20image%201.png){align=left width=250 loading=lazy}
+![time](Images/website%20image%202.png){align=left width=250 loading=lazy}
+<br clear="left"/>
+![time](Images/website%20image%203.png){align=left width=250 loading=lazy}
+![time](Images/website%20image%204.png){align=left width=250 loading=lazy}
+
+<br clear="left"/>
 
 ## **Experimental Films**
 
@@ -61,14 +70,5 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 
 [Check out my work!](https://drive.google.com/drive/folders/1OgCBCWV1STe2ityFg_Fe9g0NcV_e_zIa?usp=sharing){ .md-button }
 
-
-<br clear="left"/>
-
-## **Website Design**
-
-![time](Images/website%20image%201.png){align=left width=250 loading=lazy}
-![time](Images/website%20image%202.png){align=left width=250 loading=lazy}
-![time](Images/website%20image%203.png){align=left width=250 loading=lazy}
-![time](Images/website%20image%204.png){align=left width=250 loading=lazy}
 
 <br clear="left"/>
