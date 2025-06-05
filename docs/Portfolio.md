@@ -68,8 +68,7 @@ Ultimately, my work aims to highlight the emotional and aesthetic resonance of a
 
 ![time](Images/film.png){align=left width=250 loading=lazy}
 
-These films study the
-exciting and sometimes perplexing realm of experimental film and video, which bucks the traditional narrative cinema expectations of story exposition. 
+These films explore the exciting—and at times perplexing—world of experimental film and video, which defies the traditional narrative expectations of story and exposition.
 
 [Check out my work!](https://drive.google.com/drive/folders/1OgCBCWV1STe2ityFg_Fe9g0NcV_e_zIa?usp=sharing){ .md-button }
 
