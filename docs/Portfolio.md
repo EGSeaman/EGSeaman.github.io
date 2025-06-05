@@ -23,7 +23,8 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 
 <br clear="left"/>
 
-## **Architectural Animation**
+## **Animations**
+### **Architectural Animation**
 
 ![time](Images/digitalartdemo.png){align=left width=250 loading=lazy}
 
