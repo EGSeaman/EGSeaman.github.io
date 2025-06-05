@@ -24,6 +24,16 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 <br clear="left"/>
 
 ## **Animations**
+
+### **Stop-Motion Animation**
+![time](Images/Final%20Project%20Yellow-45.jpg){align=left width=250 loading=lazy}
+
+Inspired by anime, this animation incorporates impact frames and explores creative transitions as part of a practice in dynamic motion.
+
+[Check out my work!](https://drive.google.com/drive/folders/1mctkOgxRClk1RI39yJSUwBtmnqly8qgb?usp=sharing){ .md-button }
+
+<br clear="left"/>
+
 ### **Architectural Animation**
 
 ![time](Images/capstoneimage.png){align=left width=250 loading=lazy}
@@ -35,13 +45,6 @@ Ultimately, my work aims to highlight the emotional and aesthetic resonance of a
 
 [Check out my work!](https://drive.google.com/drive/folders/1iEdY2Z1K_nGf7YbJmTB1vCbThUHmz-2n?usp=sharing){ .md-button }
 
-
-<br clear="left"/>
-
-### **Stop-Motion Animation**
-![time](Images/Final%20Project%20Yellow-45.jpg){align=left width=250 loading=lazy}
-
-[Check out my work!](https://drive.google.com/drive/folders/1mctkOgxRClk1RI39yJSUwBtmnqly8qgb?usp=sharing){ .md-button }
 
 <br clear="left"/>
 
