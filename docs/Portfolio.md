@@ -36,7 +36,7 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 
 ## **Animations**
 
-![time](Images/animation.png){align=left width=250 loading=lazy}
+![time](Images/Seaman_Eric_Rotoscope_individual.gif){align=left width=250 loading=lazy}
 
 This collection  includes my work in animation, including projects created through rotoscoping and stop-motion.
 
