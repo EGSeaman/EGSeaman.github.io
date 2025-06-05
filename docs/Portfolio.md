@@ -36,7 +36,7 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 
 ## **Rotoscope Animations**
 
-![time](Seaman_Eric_Rotoscope_individual.gif){align=left width=250 loading=lazy}
+![time](animation.png){align=left width=250 loading=lazy}
 
 This diverse set includes selections of my work with Adobe Photoshop, Illustrator, and InDesign.
 
