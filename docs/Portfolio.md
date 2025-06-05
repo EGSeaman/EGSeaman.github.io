@@ -33,12 +33,12 @@ My artistic process begins with hand-drawn sketches of Ancient Greek buildings, 
 Ultimately, my work aims to highlight the emotional and aesthetic resonance of architectural space. By emphasizing both what is shown and what is withheld, I hope to invite viewers to reflect on the role of absence in shaping meaning—and to consider how even the spaces in between can carry weight.
 
 
-[Check out my work!](pdfs/Digital_Art_Portfolio.pdf){ .md-button }
+[Check out my work!](https://drive.google.com/drive/folders/1iEdY2Z1K_nGf7YbJmTB1vCbThUHmz-2n?usp=sharing){ .md-button }
 
 
 <br clear="left"/>
 
-### **Rotoscope Animation**
+### **Rotoscope Animations**
 
 ![time](Images/Seaman_Eric_Rotoscope_individual.gif){align=left width=250 loading=lazy}
 ![time](Images/animation2.gif){align=left width=250 loading=lazy}
@@ -46,7 +46,7 @@ Ultimately, my work aims to highlight the emotional and aesthetic resonance of a
 <br clear="left"/>
 
 ### **Stop-Motion Animation**
-
+![time](Images/Final%20Project%20Yellow-45.jpg){align=left width=250 loading=lazy}
 
 [Check out my work!](https://drive.google.com/drive/folders/1mctkOgxRClk1RI39yJSUwBtmnqly8qgb?usp=sharing){ .md-button }
 
