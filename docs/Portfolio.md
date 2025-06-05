@@ -48,13 +48,17 @@ This collection  includes my work in animation, including projects created throu
 
 ### **Stop-Motion Animation**
 
+
+[Check out my work!](https://drive.google.com/drive/folders/1mctkOgxRClk1RI39yJSUwBtmnqly8qgb?usp=sharing){ .md-button }
 ## **Experimental Films**
 
 ![time](Images/digitalartdemo.png){align=left width=250 loading=lazy}
 
 This diverse set includes selections of my work with Adobe Photoshop, Illustrator, and InDesign.
 
-[Check out my work!](pdfs/Digital_Art_Portfolio.pdf){ .md-button }
+[Check out my work!](https://drive.google.com/drive/folders/1OgCBCWV1STe2ityFg_Fe9g0NcV_e_zIa?usp=sharing){ .md-button }
 
 
 <br clear="left"/>
+
+## **Website Design**
