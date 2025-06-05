@@ -34,11 +34,11 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 
 <br clear="left"/>
 
-## **Rotoscope Animations**
+## **Animations**
 
 ![time](animation.png){align=left width=250 loading=lazy}
 
-This diverse set includes selections of my work with Adobe Photoshop, Illustrator, and InDesign.
+This collection  includes my work in animation, including projects created through rotoscoping and stop-motion.
 
 [Check out my work!](pdfs/Digital_Art_Portfolio.pdf){ .md-button }
 
