@@ -42,7 +42,6 @@ Inspired by the strength and elegance of Ancient Greek architecture, my work exp
 My artistic process begins with hand-drawn sketches of Ancient Greek buildings, where I focus on the precision, symmetry, and balance that define classical architecture. After completing these sketches, I digitize and layer them using Adobe Photoshop, treating each layer as a frame in a larger sequence. Through this technique, I’m able to create an animation that eventually reveals each structure. The slow movement allows the viewer to engage with the form over time, experiencing the architecture as something dynamic rather than static.
 Ultimately, my work aims to highlight the emotional and aesthetic resonance of architectural space. By emphasizing both what is shown and what is withheld, I hope to invite viewers to reflect on the role of absence in shaping meaning—and to consider how even the spaces in between can carry weight.
 
-![time](Images/transparent.jpg){align=left width=250 loading=lazy}
 [Check out my work!](https://drive.google.com/drive/folders/1iEdY2Z1K_nGf7YbJmTB1vCbThUHmz-2n?usp=sharing){ .md-button }
 
 
