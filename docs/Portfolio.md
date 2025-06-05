@@ -50,6 +50,8 @@ Ultimately, my work aims to highlight the emotional and aesthetic resonance of a
 
 [Check out my work!](https://drive.google.com/drive/folders/1mctkOgxRClk1RI39yJSUwBtmnqly8qgb?usp=sharing){ .md-button }
 
+<br clear="left"/>
+
 ## **Experimental Films**
 
 ![time](Images/digitalartdemo.png){align=left width=250 loading=lazy}
@@ -62,3 +64,10 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 <br clear="left"/>
 
 ## **Website Design**
+
+![time](Images/website%20image%201.png){align=left width=250 loading=lazy}
+![time](Images/website%20image%202.png){align=left width=250 loading=lazy}
+![time](Images/website%20image%203.png){align=left width=250 loading=lazy}
+![time](Images/website%20image%204.png){align=left width=250 loading=lazy}
+
+<br clear="left"/>
