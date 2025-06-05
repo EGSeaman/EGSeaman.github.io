@@ -26,7 +26,7 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 ## **Animations**
 ### **Architectural Animation**
 
-![time](Images/digitalartdemo.png){align=left width=250 loading=lazy}
+![time](Images/capstoneimage.png){align=left width=250 loading=lazy}
 
 Inspired by the strength and elegance of Ancient Greek architecture, my work explores the relationship between structure and space, presence and absence. I am particularly drawn to how these ancient forms use negative space—not just as emptiness, but as something that gives meaning and definition to what surrounds it. This interplay creates a quiet tension that I find both powerful and reflective.
 My artistic process begins with hand-drawn sketches of Ancient Greek buildings, where I focus on the precision, symmetry, and balance that define classical architecture. After completing these sketches, I digitize and layer them using Adobe Photoshop, treating each layer as a frame in a larger sequence. Through this technique, I’m able to create an animation that eventually reveals each structure. The slow movement allows the viewer to engage with the form over time, experiencing the architecture as something dynamic rather than static.
