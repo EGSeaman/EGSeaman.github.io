@@ -36,7 +36,7 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 
 ## **Animations**
 
-![time](animation.png){align=left width=250 loading=lazy}
+![final](animation.png){align=left width=250 loading=lazy}
 
 This collection  includes my work in animation, including projects created through rotoscoping and stop-motion.
 
