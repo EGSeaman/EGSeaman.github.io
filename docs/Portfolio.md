@@ -23,5 +23,9 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 
 <br clear="left"/>
 
+## **Animations**
+
+![time](Seaman_Eric_Rotoscope_individual.gif){align=left width=250 loading=lazy}
+
 
 
