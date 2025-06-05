@@ -23,6 +23,18 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 
 <br clear="left"/>
 
+
+## **Experimental Films**
+
+![time](Images/film.png){align=left width=250 loading=lazy}
+
+These films explore the exciting—and at times perplexing—world of experimental film and video, which defies the traditional narrative expectations of story and exposition.
+
+[Check out my work!](https://drive.google.com/drive/folders/1OgCBCWV1STe2ityFg_Fe9g0NcV_e_zIa?usp=sharing){ .md-button }
+
+
+<br clear="left"/>
+
 ## **Animations**
 
 ### **Stop-Motion Animation**
@@ -36,12 +48,11 @@ Inspired by anime, this animation incorporates impact frames and explores creati
 
 ### **Architectural Animation**
 
-![time](Images/Final.mp4){align=left width=250 loading=lazy}
-
 Inspired by the strength and elegance of Ancient Greek architecture, my work explores the relationship between structure and space, presence and absence. I am particularly drawn to how these ancient forms use negative space—not just as emptiness, but as something that gives meaning and definition to what surrounds it. This interplay creates a quiet tension that I find both powerful and reflective.
 My artistic process begins with hand-drawn sketches of Ancient Greek buildings, where I focus on the precision, symmetry, and balance that define classical architecture. After completing these sketches, I digitize and layer them using Adobe Photoshop, treating each layer as a frame in a larger sequence. Through this technique, I’m able to create an animation that eventually reveals each structure. The slow movement allows the viewer to engage with the form over time, experiencing the architecture as something dynamic rather than static.
 Ultimately, my work aims to highlight the emotional and aesthetic resonance of architectural space. By emphasizing both what is shown and what is withheld, I hope to invite viewers to reflect on the role of absence in shaping meaning—and to consider how even the spaces in between can carry weight.
 
+![time](Images/Final.mp4){align=left width=250 loading=lazy}
 
 <br clear="left"/>
 
@@ -59,16 +70,5 @@ Ultimately, my work aims to highlight the emotional and aesthetic resonance of a
 <br clear="left"/>
 ![time](Images/website%20image%203.png){align=left width=250 loading=lazy}
 ![time](Images/website%20image%204.png){align=left width=250 loading=lazy}
-
-<br clear="left"/>
-
-## **Experimental Films**
-
-![time](Images/film.png){align=left width=250 loading=lazy}
-
-These films explore the exciting—and at times perplexing—world of experimental film and video, which defies the traditional narrative expectations of story and exposition.
-
-[Check out my work!](https://drive.google.com/drive/folders/1OgCBCWV1STe2ityFg_Fe9g0NcV_e_zIa?usp=sharing){ .md-button }
-
 
 <br clear="left"/>
