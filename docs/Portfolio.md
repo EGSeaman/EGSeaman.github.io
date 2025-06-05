@@ -23,9 +23,35 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 
 <br clear="left"/>
 
-## **Animations**
+## **Architectural Animation**
+
+![time](Images/digitalartdemo.png){align=left width=250 loading=lazy}
+
+This diverse set includes selections of my work with Adobe Photoshop, Illustrator, and InDesign.
+
+[Check out my work!](pdfs/Digital_Art_Portfolio.pdf){ .md-button }
+
+
+<br clear="left"/>
+
+## **Rotoscope Animations**
 
 ![time](Seaman_Eric_Rotoscope_individual.gif){align=left width=250 loading=lazy}
 
+This diverse set includes selections of my work with Adobe Photoshop, Illustrator, and InDesign.
+
+[Check out my work!](pdfs/Digital_Art_Portfolio.pdf){ .md-button }
 
 
+<br clear="left"/>
+
+## **Experimental Films**
+
+![time](Images/digitalartdemo.png){align=left width=250 loading=lazy}
+
+This diverse set includes selections of my work with Adobe Photoshop, Illustrator, and InDesign.
+
+[Check out my work!](pdfs/Digital_Art_Portfolio.pdf){ .md-button }
+
+
+<br clear="left"/>
