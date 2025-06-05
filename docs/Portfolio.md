@@ -38,11 +38,7 @@ This diverse set includes selections of my work with Adobe Photoshop, Illustrato
 ### **Rotoscope Animation**
 
 ![time](Images/Seaman_Eric_Rotoscope_individual.gif){align=left width=250 loading=lazy}
-
-This collection  includes my work in animation, including projects created through rotoscoping and stop-motion.
-
-[Check out my work!](pdfs/Digital_Art_Portfolio.pdf){ .md-button }
-
+![time](Images/animation2.gif){align=left width=250 loading=lazy}
 
 <br clear="left"/>
 
@@ -50,6 +46,7 @@ This collection  includes my work in animation, including projects created throu
 
 
 [Check out my work!](https://drive.google.com/drive/folders/1mctkOgxRClk1RI39yJSUwBtmnqly8qgb?usp=sharing){ .md-button }
+
 ## **Experimental Films**
 
 ![time](Images/digitalartdemo.png){align=left width=250 loading=lazy}
