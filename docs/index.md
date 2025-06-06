@@ -9,7 +9,7 @@ hide:
 
 ## **About Me**
 
-I am a student at Colby College, majoring in Studio Arts with a focus in Digital. I am passionate about buiding a career in UX/UI Design in the technology industry, and am excited by the opportunities and challenges emergin with the advent of AI.
+I am a student at Colby College, majoring in Studio Arts with a focus in Digital. I am passionate about buiding a career in UX/UI Design in the technology industry, and am excited by the opportunities and challenges emerging with the advent of AI.
 
 ## **Welcome to my Portfolio!**
 
